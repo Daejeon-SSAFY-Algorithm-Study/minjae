@@ -7,9 +7,9 @@
 |  | 수열 정렬-1015                         | https://www.acmicpc.net/problem/1015 |
 | | 방울 마술-20934                        | [https://swexpertacademy.com/main/code/problem/20934](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AY9QTGqqcckDFAVF&categoryId=AY9QTGqqcckDFAVF&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1) |
 |  | DFS와 BFS-1260                         | https://www.acmicpc.net/problem/1260|
-|  | 연결요소의개수_11724                          | https://www.acmicpc.net/problem/11724 |
-|  | 바이러스_2606                          | https://www.acmicpc.net/problem/2606 |
-|  | 단지번호붙이기_2667                          | https://www.acmicpc.net/problem/2667 |
+|  | 연결요소의개수-11724                          | https://www.acmicpc.net/problem/11724 |
+|  | 바이러스-2606                          | https://www.acmicpc.net/problem/2606 |
+|  | 단지번호붙이기-2667                          | https://www.acmicpc.net/problem/2667 |
 | 2주차 | -                          | - |
 | 3주차 | -                          | - |
 | 4주차 | -                          | - |
