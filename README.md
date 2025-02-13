@@ -10,7 +10,9 @@
 |  | 연결요소의개수-11724                          | https://www.acmicpc.net/problem/11724 |
 |  | 바이러스-2606                          | https://www.acmicpc.net/problem/2606 |
 |  | 단지번호붙이기-2667                          | https://www.acmicpc.net/problem/2667 |
-| 2주차 | -                          | - |
+| 2주차 |N과M(3)-15651 | [-](https://www.acmicpc.net/problem/15651) |
+| | | - |
+|| | - |
 | 3주차 | -                          | - |
 | 4주차 | -                          | - |
 | 5주차 | -                          | - |
