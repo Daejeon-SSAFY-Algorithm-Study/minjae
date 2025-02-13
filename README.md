@@ -10,9 +10,11 @@
 |  | 연결요소의개수-11724                          | https://www.acmicpc.net/problem/11724 |
 |  | 바이러스-2606                          | https://www.acmicpc.net/problem/2606 |
 |  | 단지번호붙이기-2667                          | https://www.acmicpc.net/problem/2667 |
-| 2주차 |N과M(3)-15651 | [-](https://www.acmicpc.net/problem/15651) |
-| | | - |
-|| | - |
+| 2주차 |N과M(3)-15651 | https://www.acmicpc.net/problem/15651 |
+| | 숨바꼭질-1697 | https://www.acmicpc.net/problem/1697 |
+|| 미로탐색-2178 | https://www.acmicpc.net/problem/2178 |
+|   |최단경로-1753 | https://www.acmicpc.net/problem/1753|
+|  | 최소비용 구하기-1916                          |https://www.acmicpc.net/problem/1916 |
 | 3주차 | -                          | - |
 | 4주차 | -                          | - |
 | 5주차 | -                          | - |
