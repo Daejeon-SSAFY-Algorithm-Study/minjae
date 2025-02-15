@@ -15,6 +15,8 @@
 || 미로탐색-2178 | https://www.acmicpc.net/problem/2178 |
 |   |최단경로-1753 | https://www.acmicpc.net/problem/1753|
 |  | 최소비용 구하기-1916                          |https://www.acmicpc.net/problem/1916 |
+|  | 스도쿠-2580                          | https://www.acmicpc.net/problem/2580|
+|  | 토마토-1576                          | https://www.acmicpc.net/problem/7576|
 | 3주차 | -                          | - |
 | 4주차 | -                          | - |
 | 5주차 | -                          | - |
