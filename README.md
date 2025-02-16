@@ -17,6 +17,7 @@
 |  | 최소비용 구하기-1916                          |https://www.acmicpc.net/problem/1916 |
 |  | 스도쿠-2580                          | https://www.acmicpc.net/problem/2580|
 |  | 토마토-1576                          | https://www.acmicpc.net/problem/7576|
+|  | 나무높이-14510| [https://swexpertacademy.com/14510](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4&) |
 | 3주차 | -                          | - |
 | 4주차 | -                          | - |
 | 5주차 | -                          | - |
